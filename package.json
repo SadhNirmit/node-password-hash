@@ -1,0 +1,15 @@
+{
+  "name": "30jan",
+  "version": "1.0.0",
+  "description": "This is new folder for my node js pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nirmit sadh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
